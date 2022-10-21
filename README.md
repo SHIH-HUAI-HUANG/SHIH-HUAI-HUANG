@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-祐均喜歡貓爾籮莉
+
 
 <!---
 SHIH-HUAI-HUANG/SHIH-HUAI-HUANG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
